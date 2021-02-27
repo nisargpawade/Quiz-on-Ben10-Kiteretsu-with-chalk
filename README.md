@@ -1,4 +1,5 @@
 < img src = "icon.png" align = "right"/>
+<img src="icon.png" align="right" />
 # Quiz-on-Ben10-with-chalk
 
 
