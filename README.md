@@ -1,4 +1,4 @@
-< imgsrc = "https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align = "right"/>
+< img src = "https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align = "right"/>
 # Quiz-on-Ben10-with-chalk
 
 
