@@ -17,10 +17,7 @@ Level2️⃣ - Kiteretsu 🧬
 
 ## How to Play
 
-* Click the link given in description or [here](https://repl.it/@nisargpawade/Quiz-on-Ben10-with-chalk?embed=1&output=0#index.js "Link to Quiz").
+* Click the link given in description or [here](https://repl.it/@nisargpawade/Quiz-on-Ben10andKiteretsu-with-chalk?embed=1&output=0#index.js "Link to Quiz").
 * Run the code
   * Play button on bottom left corner.
 * Choose the correct option by entering the Option no. i.e 1, 2, 3, 4
-
-
-
