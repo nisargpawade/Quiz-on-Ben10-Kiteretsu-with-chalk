@@ -1,5 +1,5 @@
-<img src="Kiteretsu_Daihyakka.jpg" alt="drawing" align="right" width="200"/>
-<img src="ben10.jpg" align="right" />
+<img src="Kiteretsu_Daihyakka.jpg" alt="drawing" align="right" width="180"/>
+<img src="ben10.jpg" align="right" width="180"/>
 
 # Quiz on Ben10 & Kiteretsu with chalk
 
