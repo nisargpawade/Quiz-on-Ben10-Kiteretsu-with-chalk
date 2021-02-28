@@ -6,7 +6,6 @@
 ## Gameplay 🎮
 There are 4 options for each question, choose the correct answer.
 
-<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
 
 It has Two Levels:
 
@@ -14,6 +13,7 @@ Level1️⃣ - Ben 10 ⌚
 
 Level2️⃣ - Kiteretsu 🧬
 
+<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
 
 ## How to Play
 
