@@ -107,7 +107,7 @@ var kThree = {
   kThreeOptions = ["Mr. Benzo", "Miyoko", "Suniyo", "Mrs. Himawari"]
 
 var kFour = {
-  que : "What does Korosuke like to it? ",
+  que : "What does Korosuke like to eat? ",
   ans : "Koroke",
 }
   kFourOptions = ['Dorayaki', 'Koroke', 'chocolate roll', 'sushi']
