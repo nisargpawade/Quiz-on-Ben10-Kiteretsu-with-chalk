@@ -1,10 +1,12 @@
-<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
+
 <img src="ben10.jpg" align="right" width="180"/>
 
 # Quiz on Ben10 & Kiteretsu with chalk
 
 ## Gameplay 🎮
 There are 4 options for each question, choose the correct answer.
+
+<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
 
 It has Two Levels:
 
