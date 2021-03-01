@@ -7,13 +7,15 @@
 There are 4 options for each question, choose the correct answer.
 Choose the correct option by entering the Option no. i.e 1, 2, 3, 4
 
+<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
+
 It has Two Levels:
 
 Level1️⃣ - Ben 10 ⌚
 
 Level2️⃣ - Kiteretsu 🧬
 
-<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
+
 
 ## How to launch the Quiz 🚀
 
