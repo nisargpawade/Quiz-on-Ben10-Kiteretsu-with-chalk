@@ -7,11 +7,14 @@
 There are 4 options for each question, choose the correct answer.
 Choose the correct option by entering the Option no. i.e 1, 2, 3, 4
 
+Players will have to answer correctly to get 1 point and a wrong answer will result in deducting 1 point from your total points. 
+To enter Level 2, you will need to maintain a positive score.
+
+<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
+
 It has Two Levels:
 
 Level1️⃣ - Ben 10 ⌚
-
-<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
 
 Level2️⃣ - Kiteretsu 🧬
 
