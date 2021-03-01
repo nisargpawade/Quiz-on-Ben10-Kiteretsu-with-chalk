@@ -9,9 +9,9 @@ Choose the correct option by entering the Option no. i.e 1, 2, 3, 4
 
 It has Two Levels:
 
-<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
-
 Level1️⃣ - Ben 10 ⌚
+
+<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
 
 Level2️⃣ - Kiteretsu 🧬
 
