@@ -7,9 +7,9 @@
 There are 4 options for each question, choose the correct answer.
 Choose the correct option by entering the Option no. i.e 1, 2, 3, 4
 
-<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
-
 It has Two Levels:
+
+<img src="Kiteretsu_Daihyakka.jpg" align="right" width="180"/>
 
 Level1️⃣ - Ben 10 ⌚
 
